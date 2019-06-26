@@ -1,0 +1,27 @@
+Rockwell Automation
+
+
+Functional Requirement
+
+1>
+ In google cloud Platfrom or Amazon web services ,first  you have to create our Account
+    a) login/registeration
+    
+During registration 
+1)Category
+   service your require
+
+2) Payment 
+      according to your needs/choice 
+you need to  select your category that means which type of services you require.
+
+3)File upload
+
+4)App Engine
+
+5)compute Engine
+    a)  Vm instance
+
+6)kubernatives
+
+ 

@@ -1,0 +1,31 @@
+Rockwell Automation
+
+Problem Statement
+
+Google Cloud platform or Aws are providing alots of feature
+so work can complete within time or before on time
+
+however there is some drawback
+1)sometimes due internet connection there maybe chances of  miss use of documents or document can be change by anyone
+
+2)project maybe in large size or small size there maybe chances of issue like delay in deloyment or during cloning times
+
+
+3)maybe there is possiblity of download your file can be corrupted or damage 
+
+4)sometimes due hacker  there maybe chances of  miss use of documents or document can be change by anyone
+
+5)security  is the main issuse 
+User confidential information is top priorty
+
+6)sometime due do internet connection 
+payment issues occur
+
+7) it should be user friendly,
+then only user will uses these services
+
+8) due to lots of instance there might be possiblity to response late.
+ 
+9) services charge should be normalinal so that big or small company or user can use these these service
+
+10)there should be tight secuirty so use documents can be uploaded easy. 

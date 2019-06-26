@@ -1,0 +1,22 @@
+Rockwell Automation
+
+
+Non-Functional Requirement
+
+There are requirements that are not functional nature 
+specialliay these are constraints which system must used
+
+there are some non-functional requirement
+
+1)Preformance requirement
+ check ,the website response
+
+2)safety requirement
+    maintain and protect the user information  
+
+3)security requirement
+   provide  security
+4) software assurance
+  which services they use they provide maintainability and scailablity 
+5)  business rules
+     	
